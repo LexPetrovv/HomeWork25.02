@@ -12,7 +12,7 @@ void RangeOfDigit(int n, int m = 3)
         Console.WriteLine(m);
         return;
     }
-    Console.Write(m + " ");
+    Console.Write(m + ", ");
     RangeOfDigit(n, m + 1);
 }
 int n = 15;
