@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\HomeWork11.03\obj\MCD\Debug\net7.0\HomeWork11.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\HomeWork11.03\obj\MCD\Debug\net7.0\HomeWork11.03.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\HomeWork11.03\obj\MCD\Debug\net7.0\HomeWork11.03.AssemblyInfo.cs
+C:\Users\Hp\Desktop\HomeWork11.03\obj\MCD\Debug\net7.0\HomeWork11.03.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\HomeWork11.03\bin\MCD\Debug\net7.0\HomeWork11.03.exe
+C:\Users\Hp\Desktop\HomeWork11.03\bin\MCD\Debug\net7.0\HomeWork11.03.deps.json
+C:\Users\Hp\Desktop\HomeWork11.03\bin\MCD\Debug\net7.0\HomeWork11.03.runtimeconfig.json
+C:\Users\Hp\Desktop\HomeWork11.03\bin\MCD\Debug\net7.0\HomeWork11.03.dll
+C:\Users\Hp\Desktop\HomeWork11.03\bin\MCD\Debug\net7.0\HomeWork11.03.pdb
+C:\Users\Hp\Desktop\HomeWork11.03\obj\MCD\Debug\net7.0\HomeWork11.03.dll
+C:\Users\Hp\Desktop\HomeWork11.03\obj\MCD\Debug\net7.0\refint\HomeWork11.03.dll
+C:\Users\Hp\Desktop\HomeWork11.03\obj\MCD\Debug\net7.0\HomeWork11.03.pdb
+C:\Users\Hp\Desktop\HomeWork11.03\obj\MCD\Debug\net7.0\HomeWork11.03.genruntimeconfig.cache
+C:\Users\Hp\Desktop\HomeWork11.03\obj\MCD\Debug\net7.0\ref\HomeWork11.03.dll
